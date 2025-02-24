@@ -1,0 +1,19 @@
+[project]
+name = "career-guidance"
+version = "0.1.0"
+description = "Tool to guide job seekers supported by AI"
+authors = [
+    {name = "Pradeepaa001",email = "mpradeepaa2020@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-generativeai (>=0.8.4,<0.9.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)"
+]
+package-mode = false
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
