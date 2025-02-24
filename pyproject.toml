@@ -14,6 +14,15 @@ dependencies = [
     "pymupdf",
     "python-docx",
     "PyPDF2",
+    "pyaudio",
+    "numpy",
+    "whisper",
+"SpeechRecognition",
+"pyttsx3",
+"python-docx",
+"fastapi",
+"uvicorn",
+ "python-multipart"
 ]
 package-mode = false
 
