@@ -13,7 +13,7 @@ dependencies = [
     "spacy",
     "pymupdf",
     "python-docx",
-    "PyPDF2"
+    "PyPDF2",
 ]
 package-mode = false
 

@@ -272,7 +272,7 @@ if __name__ == "__main__":
         parser = ResumeParser()
         
         # Specify resume file path
-        resume_path = "C:\\Users\\vaish\\Downloads\\pradeepaa_resume.pdf"
+        resume_path = "E:\\fdrive\\3rd sem\\cv\\pradeepaa_resume.pdf"
         
         # Parse resume
         output, parsed_data = parser.parse_resume(resume_path)
