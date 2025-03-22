@@ -54,9 +54,9 @@ This project is an AI-powered career guidance system designed to optimize job ma
 4. Install and enable the Chrome extension for resume downloads.
 
 ## Contributors
-- **[Your Name]** - AI Development & NLP
-- **[Your Team Members]** - Chrome Extension, Sentiment Analysis, UI/UX
-
-## License
-This project is licensed under the MIT License.
+   HackHerWay Team
+- Pradeepaa M
+- Shravya K
+- Swaathi S
+- Vaishnavi J
 
